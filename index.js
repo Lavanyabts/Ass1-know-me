@@ -31,7 +31,7 @@ var questions = [{
   answer: "BTS",
 }, {
   question: "My Fav Country? ",
-  answer: "New York",
+  answer: "europe",
 }, {
   question: "My Fav Color? ",
   answer: "lavender",
